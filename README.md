@@ -35,10 +35,11 @@
 <h2 align="center"> 📫 About Me 📫 </h2>
 
 <p align="center">
-  <a href="mailto:keumsiun0503@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://velog.io/@keumsiun0503" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
+   <br>
+   <a href="mailto:keumsiun0503@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> : keumsiun0503@gmail.com
 </p>
