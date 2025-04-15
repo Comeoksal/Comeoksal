@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Comeoksal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Comeoksal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comeoksal&show_icons=true&theme=radical)
 
 <!--
 **Comeoksal/Comeoksal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
