@@ -3,7 +3,7 @@
 <h3 align="center">📈 GitHub Stats 📈</h3>
 
 <div align="center">
-  <div style="display: flex; gap: 20px;">
+  <div style="display: flex; gap: 20;">
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comeoksal&layout=compact)
 
