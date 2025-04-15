@@ -2,12 +2,10 @@
 
 <h3 align="center">📈 GitHub Stats 📈</h3>
 
-<div align="center">
-  <div style="display: flex; gap: 20;">
-    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Comeoksal&layout=compact)
+<h3 align="center">📈 GitHub Stats 📈</h3>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comeoksal&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Comeoksal&show_icons=true&theme=radical" />
+</p>
+
