@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Sieon%20Keum&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Sieon%20Keum&fontSize=20" />
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
 
@@ -30,4 +30,15 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
    <br>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+<h2 align="center"> 📫 About Me </h2>
+
+<p align="center">
+  <a href="mailto:keumsiun0503@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@keumsiun0503" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
 </p>
