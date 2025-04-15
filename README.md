@@ -40,6 +40,6 @@
   </a>
    <br>
    <a href="mailto:keumsiun0503@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> : keumsiun0503@gmail.com
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> : keumsiun0503@gmail.com
+  </a>
 </p>
