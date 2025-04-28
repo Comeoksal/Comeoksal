@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Sieon%20Keum&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=270&section=header&text=Sieon%20Keum&fontSize=50" />
 
 <h2 align="center"> 📈 GitHub Stats 📈 </h2>
 
